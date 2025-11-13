@@ -1,0 +1,22 @@
+
+<table width="100%" border="0" cellspacing="5" cellpadding="0" style="color:#333; line-height:1.8em; text-align:justify;">
+            <tr>
+            <td width="49%">
+            <table width="100%" border="1" bordercolor="#CCCCCC" cellspacing="0" cellpadding="3" class="formtable">
+            <tr>
+            <td width="80%" colspan="12" align="center"><b>"Balance Leave Report Data For 17-Oct-2025  To  17-Oct-2025","Generated Date 17-Oct-2025 11:05:01"</b></td>
+            </tr>
+            <tr style="background:#ededd3;">
+                <td><b>Employee Code</b></td>
+                <td><b>Employee Name</b></td><td><b>Region</b></td><td><b>Unit</b></td><td><b>Location</b></td>
+                <td><b>Department</b></td>
+                <td><b>Grade</b></td>
+                <td><b>Designation</b></td><td><b>Business Unit</b></td><td><b>Leave Name</b></td>
+                <td><b>Leave Description</b></td>
+                <td><b>Opening Balance</b></td>
+                <td><b>Credited</b></td>
+                <td><b>Adjustment</b></td>
+                <td><b>Debit</b></td>
+                <td><b>Closing Balance</b></td>
+                <td><b>Year-End Balance</b></td>
+                <td><b>Year-End Lapsed Balance</b></td></tr></table></td></tr></table>

@@ -1,0 +1,251 @@
+Administrator Passwords 
+
+M!cr0proce$soR  
+2V2$Ap8gTNme  
+
+Region 1 => 1nterf@ceEFL
+
+Region 2 => $urg!c@l1LAB
+
+Region 3 => P@s$phr@se12
+
+Region 4 => V@cumc1e@ner
+
+Region 5 => M@$ter#ead78
+
+Region 6 => Aw@reNe$s6IT
+
+
+*************************************************************************************** 
+
+Printer IP Address
+CNFG410765:HP LaserJet Pro 400 M451dn10.101.158.100 2nd Floor ( Printer roller issue )
+VYB8711460	ECOSYS M2040dn	     10.101.158.98 2nd floor
+VYB8711298	ECOSYS M2040dn	     10.101.158.106 3rd  floor
+
+
+Netskope removal key
+Efl@0Pyc!L$0908
+
+***************************************************************************************
+Product Key
+___________________
+M office 2013 -> DVDH3-YHNC2-Q7PX4-QC242-P9VVT
+	      -> 
+M Office 2016 -> PKWNK-JVGTT-T2XYH-FYBKJ-W44JC
+
+BXQJJ-CWYTW-PVJKD-CV2MC-4QM6P
+
+Office 2019- MYKJN-VFQWX-DMCQC-VBDJ2-V8TVB
+
+windows 10- activation - GDN8F-HXBYK-WK8TW-MB4X2-J44DB
+_____________________________________________________
+
+Battery health Command => powercfg/batteryreport
+
+___________________
+
+
+_____________________________________________________________
+ http://www.docklight.de/download/Docklight.zip
+
+ ___________________________________________
+Windows temporary profile login issue 
+Navigate to the Profile List key:
+
+>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+
+___________________________
+____________________
+new SAP 7.3 configuration for Open Network 
+ECC_PRD
+10.50.2.6
+05
+EEP
+/H/EFL-SAPRTR.eurekaforbes.co.in/W/helloefl/H/
+___________________
+
+Team viewer credential 
+user name :- tvsupport@eurekaforbes.co.in
+Password:- m86F5kUQ7KeD
+___________________
+printer mail ID
+
+kyocera scanner :
+___________________
+
+
+engg.blr@eurekaforbes.co.in
+Printer@12345
+app password- scannerpass
+alsa wluk plrc huas
+
+smtp.office365.com
+update DNS in netwrok settings
+10.98.0.98
+
+Protocol set to STARTLS
+port No-587
+
+
+scannner.bng@gmail.com
+Printer@@1234
+app password
+wuwv jvti venv jotj
+
+scanprinter0101@gmail.com 
+( Printer@12345)
+app password
+rofl midl hkzi vndj
+
+
+Printer@12345
+______________________
+
+ google chrome browser slowness::
+chrome://flags 
+
+1. There are two QUIC protocol options in the settings of the Chrome Browser that we have to disable,
+ QUIC Commands, and Experimental QUIC protocol. Could you please disable QUIC on the users' browser, and restart the browser? 
+2. To turn it off please navigate to chrome://flags 
+and search for QUIC, we will get two results, please disable it from the dropdown.
+_____________________________________________
+
+No-143_ C4, Building no-7, Bommasandra Industrial Area, Off Hosur Road, Hebbagodi Village, Bangalore- 560099
+______________________________
+
+#589, VP Chambers 2nd & 3rd  floor 1st Cross Rd, 3rd Block, Santhoshapuram, Near water tank signal,Koramangala Bengaluru 560034
+
+_________________
+
+
+cd C:\Program Files (x86)\Netskope\STAgent
+ 
+stagentsvc -stop
+__________________________
+3. Clear the Windows Update cache: 
+Run the following command at the command prompt: 
+>> net stop wuauserv, 
+then delete everything in the 
+C:Windows SoftwareDistribution folder, 
+and finally > run
+>>  net start wuauserv again. 
+________________________________
+NEW HP SUPPORT 
+
+'status.in@hp.com'
+RM Mail ID - naveed.moulvi@hp.com
+HP Toll free no - 18002587170
+ 
+hp alternat no - 18602583079
+ 
+HP activecare support 18002660376 i need to select option 1 
+1800 622 7217 - 
+1800 258 7270 
+code: 9705# 
+
+___________
+
+lenovo Pro care - 
+1800 419 9339
+022 4882 1822
+
+lenovo desktop standard - 1800- 419-4666
+______________________________
+__________________
+___________________
+SAP support SPOC
+EFL-BASIS@infrabeat.com; 
+seema.shahu@in.ey.com;
+9619481807
+
+Askand.Kumar@in.ey.com 
+8587063279
+________________________
+______
+EFL share point all software 
+_____________________
+https://eurekaltdo365.sharepoint.com/sites/
+EFLOneDrive/Documents/Forms/
+AllItems.aspx?e=5%3Adc1ac95eb7be45f7910cec42f4d73ef3&sharingv2=true&fromShare=
+true&at=9&CID=5b18b6e5%2Df471%2D4845%2Da931%2D9cc8a9fe39cc&FolderCTID=0x01200076B37BEC1786A34B85EC327080003513&id=%2Fsites%2FEFLOneDrive%
+2FDocuments%2Fusers%2F3i%2Dzakir%2Eansari%40eurekaforbes%2Ecom%2FSoftware&viewid=d241276d%2Ddd07%
+2D4002%2Db27b%2D32ccc145a155
+_____________________________
+
+Bigfix portal:
+
+https://efl-dc-bigfix:8083/
+loginID : EFL-EUS-RE  password : Password@123
+___________________________
+
+Netskope support mail ID
+L1 - Himalay Tarkar
+L2- essupport@doyen.co.in
+_______________________________
+
+Out of warrenty Vendor SPOC :
+drop mail to ( Ganesh.bamane@eurekaforbes.com) for raise ticket with ACCEL IT team 
+____________________________________-
+
+Vikrant Chawhan:7744060532
+Selva S : 9003689849
+Anas Ansari - 7045041002 ( Manager 3i )
+Pallavi Rewale- 9850614869
+Ritu Diangwade - 7977497372
+Himalay Tarkar- 9664007936
+Ganesh Bamane - 9619845123
+Deepak Kumar : 9899890977 ( Infra Manager - EFL ) 
+Tushar basutkar : 7738287488 ( Asset Manager EFL )
+
+_______________________________
+
+
+
+
+ DC Support  team mail ID .
+ 
+Mail Support:
+ 
+EFL Mail Messaging Team eflmailmessagingteam@eurekaforbes.com
+Iyyappan Annadurai IYYAPPAN.ANNADURAI@3i-infotech.com
+Vidhya M VIDHYA.M@3i-infotech.com
+ 
+Network Support:
+ 
+EFL Network Security Team eflnetworksecurityteam@eurekaforbes.com
+ 
+Windows support :
+ 
+EFL Windows Team eflwindowsteam@eurekaforbes.com
+
+
+
+Field Engineer:
+
+field work Engineer allginment:
+
+https://iassure.3i-infotech.com/WorkOrder.do?woMode=viewWO&woID=564166
+ 
+ID: mvs-efl
+ 
+pw= Infotech@12345678
+
+
+
+Mail ID for printer scanner for cochin location
+mail Id: cochinscanner2025@gmail.com
+Mial password: Perumal@102156
+App Password: ebaf gmma ftop iolu
+
+
+Mail ID: bangalorescnner2025@gmail.com
+APP Password: tpqq tksv eqmt vwwn
+
+
+Big Fix credential:
+
+User id: EFL-EUS-RE
+
+PWD:Password@123
+
