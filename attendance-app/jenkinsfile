@@ -1,0 +1,34 @@
+pipeline {
+  agent any
+  stages {
+    stage('Checkout') {
+      steps {
+        git 'https://github.com/<your-username>/attendance-app.git'
+      }
+    }
+    stage('Build Backend') {
+      steps {
+        bat 'docker build -t attendance-backend:1.0 ./backend'
+      }
+    }
+    stage('Build Frontend') {
+      steps {
+        bat 'docker build -t attendance-frontend:1.0 ./frontend'
+      }
+    }
+    stage('Load Images to Minikube') {
+      steps {
+        bat 'minikube image load attendance-backend:1.0'
+        bat 'minikube image load attendance-frontend:1.0'
+      }
+    }
+    stage('Deploy to Kubernetes') {
+      steps {
+        bat 'kubectl apply -f backend/k8/deployment.yaml'
+        bat 'kubectl apply -f backend/k8/service.yaml'
+        bat 'kubectl apply -f frontend/k8/deployment.yaml'
+        bat 'kubectl apply -f frontend/k8/service.yaml'
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>Attendance App</title></head>
+<body>
+  <h1>Attendance System</h1>
+  <form id="form">
+    <input type="text" id="name" placeholder="Enter name" />
+    <button type="submit">Mark Attendance</button>
+  </form>
+  <ul id="list"></ul>
+
+  <script>
+    document.getElementById('form').addEventListener('submit', async e => {
+      e.preventDefault();
+      const name = document.getElementById('name').value;
+      await fetch('/api/mark', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({name}) });
+      const res = await fetch('/api/list');
+      const data = await res.json();
+      document.getElementById('list').innerHTML = data.map(d => `<li>${d.name} - ${d.time}</li>`).join('');
+    });
+  </script>
+</body>
+</html>
